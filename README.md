@@ -52,7 +52,9 @@ Essential libraries such as TensorFlow, Keras, OpenCV, NumPy, Matplotlib, and Pa
 Feature extraction focuses on leveraging facial landmarks to distill relevant information from facial images, essential for accurate sentiment analysis.
 
 ### 3.2 Algorithm
-The chosen algorithm involves facial landmark detection using Dlib, contributing to the precision and relevance of features extracted.
+The chosen algorithm involves facial landmark detection using Dlib, contributing to the precision and relevance of the features extracted.
+
+## Chapter 4
 
 ## CHAPTER 5
 
