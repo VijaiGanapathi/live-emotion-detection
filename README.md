@@ -56,7 +56,7 @@ The chosen algorithm involves facial landmark detection using Dlib, contributing
 
 ## Chapter 4
 
-### Look at the repository files for the source code.
+#### Look at the repository files for the source code.
 
 ## CHAPTER 5
 
