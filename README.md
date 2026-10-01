@@ -1,14 +1,8 @@
 # Realtime Sentiment Analysis by Face Recognition
 ## Capstone Project Report
 
-### School of Computer Science and Engineering
-**VIT-AP University, Amaravati - 522237**
-**December 2023**
-
 ### Certificate
-This capstone project, titled "Realtime Sentiment Analysis by Face Recognition," is submitted by Harish G (20BCD7101), Mohamed Sharfath N (20BCD7173), Vijai Ganapathi G (20BCR7061) under the guidance of Dr. Deepthi Godavarthi. The project is a record of bonafide work and is in partial fulfillment of the requirements for the award of Bachelor of Technology.
-
-*Guide:* Dr. Deepthi Godavarthi
+This capstone project, titled "Realtime Sentiment Analysis by Face Recognition," is submitted by Harish G, Mohamed Sharfath N, Vijai Ganapathi G. The project is a record of bonafide work and is in partial fulfillment of the requirements for the award of Bachelor of Technology.
 
 *Thesis Status:* Satisfactory
 
